@@ -3,7 +3,7 @@
  * Plugin Name:       BU RADiO MP3 Player
  * Plugin URI:        https://plugins.himusharier.xyz/
  * Description:       Audio player for BU RADiO
- * Version:           1.0
+ * Version:           1.1
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Sharier Himu
@@ -23,7 +23,7 @@ if (!defined('WPINC')) {
 
 // define plugin version
 if (!defined('APH_BURADiO_VERSION')) {
-  define('APH_BURADiO_VERSION', '1.0');
+  define('APH_BURADiO_VERSION', '1.1');
 }
 
 

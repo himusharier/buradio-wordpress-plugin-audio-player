@@ -49,8 +49,8 @@ foreach ($retrieve_data as $retrieved_data){
             <div class="wp-radio-player-himu-audio-box-play-bar-length"></div>
         </div>
         <div class="wp-radio-player-himu-audio-box-play-length-timer">
-            <a class="current">-:-</a>
-            <a class="duration">-:-</a>
+            <a class="current">0:00</a>
+            <a class="duration"></a>
         </div>
         <audio src="" id="main-audio"></audio>
     </div>

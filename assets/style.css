@@ -183,8 +183,7 @@
 /* playlist wrapper */
 .wp-radio-player-himu-playlist-wrapper {
   left: 0;
-  bottom: 55%;
-  opacity: 0;
+  display: none;
   pointer-events: none;
   width: 100%;
   background: #ffffff;
@@ -207,7 +206,7 @@
 
 .wp-radio-player-himu-playlist-wrapper.show {
   bottom: 0;
-  opacity: 1;
+  display: block;
   pointer-events: auto;
 }
 
